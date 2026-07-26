@@ -1,0 +1,20 @@
+# Obsidian UI state — per-device, never shared
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph-cache.json
+.trash/
+
+# Sources are kept private on purpose — see README
+raw/
+Clippings/
+
+# Secrets
+.env*
+*.key
+*.pem
+
+# OS
+.DS_Store
+._*
